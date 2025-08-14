@@ -87,9 +87,10 @@ Cargar el dataset procesado desde la carpeta /data.
 Ejecutar las celdas en orden.
 
 ---
-
 ## 🙏 Agradecimientos
-Este proyecto fue desarrollado como parte de la formación de Alura + Oracle Next Education.
+Este proyecto fue desarrollado como parte de la formación de **Alura + Oracle Next Education**.  
 Agradezco profundamente la oportunidad de aprendizaje, el material brindado y el acompañamiento durante el proceso de desarrollo.
+
+
 
 
