@@ -85,7 +85,7 @@ Abrir Telecom_X_Parte2.ipynb.
 Cargar el dataset procesado desde la carpeta /data.
 
 Ejecutar las celdas en orden.
-
+```
 ---
 ## 🙏 Agradecimientos
 Este proyecto fue desarrollado como parte de la formación de **Alura + Oracle Next Education**.  
